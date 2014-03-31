@@ -1,0 +1,4 @@
+myMailSetup
+===========
+
+my mail setup
